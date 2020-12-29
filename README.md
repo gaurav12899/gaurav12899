@@ -1,4 +1,4 @@
-###<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">Hey, I'm Gaurav Jain!
+### <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"> Hey, I'm Gaurav Jain!
   
 
 <a href="https://github.com/gaurav12899" target="_blank">
@@ -25,7 +25,7 @@
 
 ### Glad to see you here!  
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am computer science engineering student at Sharda University. Currently in 3rd year, so looking for some good internships.  
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">I love connecting with different people so if you want to say hi, I'll be happy to meet you more! 😊
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30">I love connecting with different people so if you want to say hi, I'll be happy to meet you more! 😊
 
 <br/>  
 
