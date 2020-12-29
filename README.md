@@ -96,7 +96,7 @@ I am computer science engineering student at Sharda University. Currently in 3rd
 <br/>  
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" align="center" style="width: 100%" />
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" align="center" style="width: 60%" />
 </div>  
   
 
