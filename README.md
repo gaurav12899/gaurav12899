@@ -1,4 +1,5 @@
-## Hey, I'm Gaurav Jain!  <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+##  <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"> 
+Hey, I'm Gaurav Jain!
   
 
 <a href="https://github.com/gaurav12899" target="_blank">
@@ -35,7 +36,8 @@ I love connecting with different people so if you want to say hi, I'll be happy 
 <br/>  
 
 
-## Rapidfire  
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
 <table><tr><td valign="top" width="50%">
 
 - 🔭 I’m currently working on Flutter App Development  
