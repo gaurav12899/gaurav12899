@@ -1,4 +1,4 @@
-### <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"> Hey, I'm Gaurav Jain!
+###<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">Hey, I'm Gaurav Jain!
   
 
 <a href="https://github.com/gaurav12899" target="_blank">
