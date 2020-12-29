@@ -89,14 +89,14 @@ I am computer science engineering student at Sharda University. Currently in 3rd
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav12899&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav12899&hide_border=true&layout=compact" align="left" style="width: 100% " />
 
 </td></tr></table>  
 
 <br/>  
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" align="center" style="width: 60%" />
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" align="center" style="width: 60% height: 60%" />
 </div>  
   
 
