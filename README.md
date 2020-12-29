@@ -1,4 +1,4 @@
-## Hey 👋, I'm Gaurav Jain!  
+## Hey, I'm Gaurav Jain!  <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
   
 
 <a href="https://github.com/gaurav12899" target="_blank">
@@ -24,7 +24,12 @@
 
 
 ### Glad to see you here!  
+
 I am computer science engineering student at Sharda University. Currently in 3rd year, so looking for some good internships.  
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+I love connecting with different people so if you want to say hi, I'll be happy to meet you more! 😊
+
+
   
 
 <br/>  
@@ -41,7 +46,6 @@ I am computer science engineering student at Sharda University. Currently in 3rd
 
 - ❓ Ask me about anything.  
 - 📫 How to reach me: gaurav.jain.12899@gmail.com;
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
 
 </td><td valign="top" width="50%">
 
