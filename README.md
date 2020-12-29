@@ -106,8 +106,6 @@ If things goes well, this section should automatically be replaced by a list of 
 
 <br/>  
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=csorce5fh31a0zvyj9clhbqyx&cover_image=true&theme=compact" /></div>  
-
 <br/>  
 
 <div align="center">
@@ -127,4 +125,3 @@ If things goes well, this section should automatically be replaced by a list of 
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
