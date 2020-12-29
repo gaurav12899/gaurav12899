@@ -41,6 +41,7 @@ I am computer science engineering student at Sharda University. Currently in 3rd
 
 - ❓ Ask me about anything.  
 - 📫 How to reach me: gaurav.jain.12899@gmail.com;
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
 
 </td><td valign="top" width="50%">
 
