@@ -33,7 +33,7 @@ I am computer science engineering student at Sharda University. Currently in 3rd
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
+- 🔭 I’m currently working on Flutter App Development  
   
 
 - 🌱 I’m currently learning Flutter and machine Learning  
@@ -111,4 +111,3 @@ I am computer science engineering student at Sharda University. Currently in 3rd
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
