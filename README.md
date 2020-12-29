@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Gaurav, Computer science engineering student at Sharda university 🚀</div>  
+### <div align="center">I'm Gaurav,a Computer science engineering student at Sharda university 🚀</div>  
   
 
 - 🔭 I’m currently working on Flutter App Development  
