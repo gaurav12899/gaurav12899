@@ -97,14 +97,11 @@
 <br/>  
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" align="center" style="width: 60%" />
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" align="center" style="width: 100%" />
 </div>  
   
 
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=gaurav12899&&style=flat-square)  
-  
+<br/>    
 
 <br/>  
 
