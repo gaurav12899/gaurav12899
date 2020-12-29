@@ -12,3 +12,4 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am happy that you are checking my profile.
 
+![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=Firebase)
