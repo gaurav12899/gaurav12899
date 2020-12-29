@@ -25,7 +25,7 @@ Hey, I'm Gaurav Jain!
 
 
 ### Glad to see you here!  
-
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 I am computer science engineering student at Sharda University. Currently in 3rd year, so looking for some good internships.  
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
 I love connecting with different people so if you want to say hi, I'll be happy to meet you more! 😊
