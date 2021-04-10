@@ -97,7 +97,7 @@
 <br/>  
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" align="center" style="width: 50% height 50%" />
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" align="center" style="width: 100px% height:50%" />
 </div>  
   
 
